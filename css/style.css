@@ -7,3 +7,11 @@ body{
     color: white;
     background-color: black;
 }
+header{
+    height: 20vh;
+}
+main{
+    height: 70vh;
+    width: 90%;
+    margin: auto;
+}
